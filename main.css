@@ -1,0 +1,167 @@
+*{
+    font-family:"Inter", sans-serif;
+}
+
+#menuSuperior { 
+    display:flex;
+    flex-direction: column;
+    width: 1440px;
+    height: 475px;
+    background-color: #303030;
+    color: white;
+    justify-content: start;
+    padding-left: 62px;
+   
+   
+}
+
+#tituloMenuSuperior {
+
+    font-size: 60px;
+margin-top: 206px;
+line-height: 72px;
+letter-spacing: -2,5%;
+width: 1024px;
+height: 72px;
+}
+
+#titulomenuinformacional {
+    margin-top: 298px;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0%;
+    font-style: 500;
+    width: 1024px;
+    height: 28px;
+
+}
+
+#eixoVisual{
+    width: 1440px;
+    height: 229px;
+}
+
+#eixoDeSustentacao {
+    display: flex;  
+    height: auto;
+    margin-left: 77px;
+
+    
+   
+}
+
+#divEixo{
+    width: 735px;
+    height: 161px;
+margin-top: 259px;
+}
+
+
+
+
+#tituloEixo{
+    font-weight: 500;
+    line-height: 20px;
+    font-size: 40px;
+    letter-spacing: 0px;
+    justify-content: center;
+   
+
+}
+
+#tituloInformacional{
+    font-weight: 300;
+    line-height: 30px;
+    font-size: 24px;
+    letter-spacing: 0%;
+    margin-top: 24px;
+    letter-spacing: 0px;
+    justify-content: center;
+    font-style: light;
+
+ margin-top: 60px;}
+
+
+
+
+#imagem{
+width: 510;
+height: 605;
+top: 781px;
+left: 876px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 30px;
+align-items: center;
+justify-content: center;
+margin-top: 82px;
+margin-bottom: 92px;
+}
+
+#formulario {
+    width: 1440px;
+    height: 638px;
+    background-color: #303030;
+    display: flex;
+    flex-direction: column;  
+      justify-content: center;
+    align-items: center;
+
+}
+
+
+#tituloFormulario {
+    width: 944;
+height: 48;
+top: 1565px;
+left: 248px;
+angle: 0 deg;
+opacity: 1;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 508px;
+    height: 72px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    margin-bottom: 62px;
+
+width: 70;
+height: 30;
+top: 1680px;
+left: 496px;
+angle: 0 deg;
+opacity: 1;
+
+}
+
+button{
+width: 286px;
+height: 74px;
+top: 1955px;
+left: 577px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 10px;
+background: #C07212;
+margin-left: 111px;
+}
+
+button .submit{
+    font-family: Raleway;
+font-weight: 700;
+font-style: Bold;
+font-size: 30px;
+leading-trim: NONE;
+line-height: 30px;
+letter-spacing: 0px;
+vertical-align: middle;
+color: #FFFFFF;
+}
